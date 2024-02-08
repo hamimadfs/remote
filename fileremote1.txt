@@ -1,2 +1,1 @@
-ini file baru untuk repo remote ini
-
+sekarang kito ngubah di lokal
